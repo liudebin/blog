@@ -1,3 +1,3 @@
-dd try git dd
+try git dd
 
 *** haha ***
